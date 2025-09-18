@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BUIA\\Documents\\teste\\BIBLIO - Copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F217268F-4023-6F2F-3973-A81B28691063}|BibliotecaProject.csproj|c:\\users\\buia\\documents\\teste\\biblio - copia\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F217268F-4023-6F2F-3973-A81B28691063}|BibliotecaProject.csproj|solutionrelative:livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F217268F-4023-6F2F-3973-A81B28691063}|BibliotecaProject.csproj|c:\\users\\buia\\documents\\teste\\biblio - copia\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F217268F-4023-6F2F-3973-A81B28691063}|BibliotecaProject.csproj|solutionrelative:biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F217268F-4023-6F2F-3973-A81B28691063}|BibliotecaProject.csproj|c:\\users\\buia\\documents\\teste\\biblio - copia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F217268F-4023-6F2F-3973-A81B28691063}|BibliotecaProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\Documents\\teste\\BIBLIO - Copia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BUIA\\Documents\\teste\\BIBLIO - Copia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T00:58:20.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\Documents\\teste\\BIBLIO - Copia\\Livro.cs",
+              "RelativeDocumentMoniker": "Livro.cs",
+              "ToolTip": "C:\\Users\\BUIA\\Documents\\teste\\BIBLIO - Copia\\Livro.cs",
+              "RelativeToolTip": "Livro.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:03:13.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\BUIA\\Documents\\teste\\BIBLIO - Copia\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Biblioteca.cs",
+              "ToolTip": "C:\\Users\\BUIA\\Documents\\teste\\BIBLIO - Copia\\Biblioteca.cs",
+              "RelativeToolTip": "Biblioteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:02:59.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

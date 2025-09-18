@@ -1,0 +1,21 @@
+C:\Users\BUIA\Documents\teste\BIBLIO\bin\Debug\net6.0\BibliotecaProject.exe
+C:\Users\BUIA\Documents\teste\BIBLIO\bin\Debug\net6.0\BibliotecaProject.deps.json
+C:\Users\BUIA\Documents\teste\BIBLIO\bin\Debug\net6.0\BibliotecaProject.runtimeconfig.json
+C:\Users\BUIA\Documents\teste\BIBLIO\bin\Debug\net6.0\BibliotecaProject.dll
+C:\Users\BUIA\Documents\teste\BIBLIO\bin\Debug\net6.0\BibliotecaProject.pdb
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\BibliotecaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\BibliotecaProject.AssemblyInfoInputs.cache
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\BibliotecaProject.AssemblyInfo.cs
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\BibliotecaProject.csproj.CoreCompileInputs.cache
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\BibliotecaProject.dll
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\refint\BibliotecaProject.dll
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\BibliotecaProject.pdb
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\BibliotecaProject.genruntimeconfig.cache
+C:\Users\BUIA\Documents\teste\BIBLIO\obj\Debug\net6.0\ref\BibliotecaProject.dll
+C:\Users\BUIA\Documents\teste\BIBLIO - Copia\obj\Debug\net6.0\BibliotecaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUIA\Documents\teste\BIBLIO - Copia\obj\Debug\net6.0\BibliotecaProject.AssemblyInfoInputs.cache
+C:\Users\BUIA\Documents\teste\BIBLIO - Copia\obj\Debug\net6.0\BibliotecaProject.AssemblyInfo.cs
+C:\Users\BUIA\Documents\teste\BIBLIO - Copia\obj\Debug\net6.0\BibliotecaProject.csproj.CoreCompileInputs.cache
+C:\Users\BUIA\Documents\teste\BIBLIO - Copia\obj\Debug\net6.0\BibliotecaProject.dll
+C:\Users\BUIA\Documents\teste\BIBLIO - Copia\obj\Debug\net6.0\refint\BibliotecaProject.dll
+C:\Users\BUIA\Documents\teste\BIBLIO - Copia\obj\Debug\net6.0\BibliotecaProject.pdb
